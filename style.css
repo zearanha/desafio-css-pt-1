@@ -59,6 +59,14 @@ p{
     color: rgba(111, 191, 68, 1);
 }
 
+.section-link:active{
+    opacity: 0.8;
+}
+
+.section-link:hover{
+    opacity: 0.6;
+}
+
 @media screen and (max-width: 900px) {
     /* Ajustes para mobile */
 
